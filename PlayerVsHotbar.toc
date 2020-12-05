@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: PlayerVsHotbar
+## Notes: Easily switch between PvE and PvP hotbars & talents (per spec).
+## Version: 1.0.0-beta
+## Author: Syh
+## DefaultState: enabled
+## SavedVariablesPerCharacter: PVHStore
+
+PlayerVsHotbar.lua
